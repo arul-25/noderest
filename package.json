@@ -1,0 +1,24 @@
+{
+  "name": "rest",
+  "version": "1.0.0",
+  "description": "latihan node js rest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arul-25/noderest.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "rest"
+  ],
+  "author": "syahrul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arul-25/noderest/issues"
+  },
+  "homepage": "https://github.com/arul-25/noderest#readme"
+}
